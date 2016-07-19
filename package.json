@@ -6,7 +6,7 @@
 , "author" : "Ciaran Jessup <ciaranj@gmail.com>"
 , "repository" : { "type":"git", "url":"http://github.com/ciaranj/node-oauth.git" }
 , "dependencies": {
-    "socksv5": "git://github.com/byteshiva/socksv5.git"
+    "socksv5-custom": "git://github.com/byteshiva/socksv5-custom.git"
   }
 , "devDependencies": {
     "vows": "0.5.x"
